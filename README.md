@@ -1,1 +1,1 @@
-# plymouth_custom_theme
+Custom made plymouth theme.

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Linux Custom Image
+Description=This is a plymouth theme which simply displays an custom image
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/customtheme
+ScriptFile=/usr/share/plymouth/themes/customtheme/customtheme.script
